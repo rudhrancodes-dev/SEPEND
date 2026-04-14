@@ -1,0 +1,38 @@
+# Gradle
+.gradle/
+build/
+*.apk
+*.aab
+*.jks
+
+# Android Studio
+.idea/
+*.iml
+*.iws
+*.ipr
+.DS_Store
+local.properties
+
+# Kotlin
+*.class
+*.jar
+*.so
+
+# Compiled files
+*.o
+*.a
+
+# Firebase
+google-services.json
+
+# Environment
+.env
+.env.local
+
+# OS
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.vs/

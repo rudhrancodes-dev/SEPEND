@@ -1,0 +1,29 @@
+{
+  "version": "0.0.1",
+  "configurations": [
+    {
+      "name": "Build App",
+      "runtimeExecutable": "./gradlew",
+      "runtimeArgs": ["build"],
+      "port": null
+    },
+    {
+      "name": "Assemble Debug APK",
+      "runtimeExecutable": "./gradlew",
+      "runtimeArgs": ["assembleDebug"],
+      "port": null
+    },
+    {
+      "name": "Install Debug on Emulator",
+      "runtimeExecutable": "./gradlew",
+      "runtimeArgs": ["installDebug"],
+      "port": null
+    },
+    {
+      "name": "Run Tests",
+      "runtimeExecutable": "./gradlew",
+      "runtimeArgs": ["test"],
+      "port": null
+    }
+  ]
+}
