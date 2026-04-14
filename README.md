@@ -127,7 +127,7 @@ This project is provided as-is for educational and personal use.
 
 ## Author
 
-Rudhran - [@rudhrancodes-dev](https://github.com/rudhrancodes-dev)
+**Made by Vibe Coding** - [@rudhrancodes-dev](https://github.com/rudhrancodes-dev)
 
 ---
 
